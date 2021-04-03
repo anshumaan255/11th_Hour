@@ -14,3 +14,14 @@
 * Deciding upon a UI design which finally led us to exploring Neumorphic Design.and using it.
 
 ![image](https://cdn.discordapp.com/attachments/758059324886089731/822705096189018112/11th_hour.jpeg)
+<br/>
+**Steps to start flutter app**: 
+* Our app is compatitble with ~ Flutter v1.x, so make sure your are on same version.
+* Clone the project 
+* Run Pub Get, and build the app.
+<br/>
+**Steps to start react web app(upload feature not yet working)**: 
+* Clone the project
+* Navigate to Web folder
+* Run npm i
+* Run npm start
