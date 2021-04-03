@@ -1,0 +1,38 @@
+.header {
+  height: 70px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+
+  
+  .logo{
+    position: relative;
+    padding: 1px;
+    width: 2rem;
+    height: 40px;
+    margin-left: -250%;
+    margin-top: -500%;
+    top: -15px;
+  }
+
+  .logo-container {
+    height: 100%;
+    width: 70px;
+    padding: 25px;
+  }
+
+  .options {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    z-index: 1;
+
+    .option {
+      padding: 10px 15px;
+      cursor: pointer;
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "752889992599",
+    "firebase_url": "https://th-hour-de18e.firebaseio.com",
+    "project_id": "th-hour-de18e",
+    "storage_bucket": "th-hour-de18e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752889992599:android:b9a6f1c57d22766afba0d2",
+        "android_client_info": {
+          "package_name": "com.example.eleventh_hour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752889992599-138b5hmv2el92uahcl9lo3s2spl9gure.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-hnQTw_am0rIVMB85ZSlt5uct4rTO8Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752889992599-138b5hmv2el92uahcl9lo3s2spl9gure.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
