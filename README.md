@@ -19,6 +19,7 @@
 * Our app is compatitble with ~ Flutter v1.x, so make sure your are on same version.
 * Clone the project 
 * Run Pub Get, and build the app.
+
 <br/>
 **Steps to start react web app(upload feature not yet working)**: 
 * Clone the project
